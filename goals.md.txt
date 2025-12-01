@@ -1,0 +1,5 @@
+I want to strenghten my python skills.
+Learn the basics of Machine Learning and build at least one simple ML model using Python libraries.
+Actively participate in Women Techmakers/GDSC events to gain confidence, mentorship, and collaborate on community projects. 
+Organize at least one beginner-friendly coding workshop under WTM to help first-year women overcome tech fear.
+Build confidence by presenting a small project (Python script, web page, or chatbot) at a WTM/GDSC showcase. 
